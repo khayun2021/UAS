@@ -22,7 +22,7 @@ Halaman home.php adalah halaman yang diakses ketika proses login berhasil, silah
 - Koneksi
 Koneksinya untuk menghubungkan form login ke tabel di database kamu, biar dia bisa cek apakah user ditemukan atau tidak
 
-Membuat Laporan PDF dengan PHP
+- Membuat Laporan PDF dengan PHP
 Dalam sebuah aplikasi laporan merupakan hal yang sangat penting karena dengan laporan kita bisa tahu data dari suatu database. Biasanya bentuk laporan akan berupa PDF, Excel dan lain sebagainya. Nah, pada kesempatan kali ini saya akan membahas tutorial bagaimana cara membuat laporan PDF dengan PHP.
 
 - Logout
